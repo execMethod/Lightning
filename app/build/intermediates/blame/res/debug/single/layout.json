@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/neighborcell/Dev/Lightning/app/build/intermediates/res/merged/debug/layout/row.xml",
+        "source": "/Users/neighborcell/Dev/Lightning/app/src/main/res/layout/row.xml"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/Lightning/app/build/intermediates/res/merged/debug/layout/config.xml",
+        "source": "/Users/neighborcell/Dev/Lightning/app/src/main/res/layout/config.xml"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/Lightning/app/build/intermediates/res/merged/debug/layout/status.xml",
+        "source": "/Users/neighborcell/Dev/Lightning/app/src/main/res/layout/status.xml"
+    }
+]

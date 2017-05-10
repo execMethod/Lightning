@@ -1,0 +1,71 @@
+<FrameLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@drawable/bg"
+  android:gravity="center">
+
+  <RelativeLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dp"
+  >
+
+    <LinearLayout
+      android:id="@+id/status_controller"
+      android:orientation="horizontal"
+      android:layout_width="fill_parent"
+      android:layout_height="40dp"
+      android:layout_alignParentBottom="true"
+      android:weightSum="10"
+    >
+      <CheckBox
+        android:id="@+id/status_rec"
+        android:text="@string/status_rec"
+        android:padding="1dp"
+        android:layout_margin="1dp"
+        android:background="#66ffffff"
+        android:layout_weight="5"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+      />
+      <Button
+        android:id="@+id/status_cfg"
+        android:text="@string/status_cfg"
+        android:padding="1dp"
+        android:background="#66ffffff"
+        android:layout_margin="1dp"
+        android:layout_weight="5"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+      />
+    </LinearLayout>
+    <Button
+      android:id="@+id/status_map"
+      android:text="@string/status_map"
+      android:padding="1dp"
+      android:visibility="gone"
+      android:background="#66ffffff"
+      android:layout_alignParentTop="true"
+      android:layout_width="fill_parent"
+      android:layout_height="40dp"
+    />
+    <ListView
+      android:id="@id/android:list"
+      android:layout_marginTop="10dp"
+      android:layout_marginBottom="10dp"
+      android:layout_above="@id/status_controller"
+      android:layout_below="@id/status_map"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent" />
+  </RelativeLayout>
+
+  <include
+    layout="@layout/config"
+    android:id="@+id/status_config"
+    android:visibility="gone"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+  />
+</FrameLayout>
+

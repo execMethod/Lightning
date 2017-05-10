@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/neighborcell/Dev/Lightning/app/build/intermediates/res/merged/debug/drawable/bg.xml",
+        "source": "/Users/neighborcell/Dev/Lightning/app/src/main/res/drawable/bg.xml"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/Lightning/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/Users/neighborcell/Dev/Lightning/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/Lightning/app/build/intermediates/res/merged/debug/drawable/bg2.png",
+        "source": "/Users/neighborcell/Dev/Lightning/app/src/main/res/drawable/bg2.png"
+    }
+]

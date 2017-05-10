@@ -1,0 +1,427 @@
+[
+    {
+        "outputFile": "/Users/neighborcell/Dev/Lightning/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 53,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 63,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 149,
+                        "endColumn": 61,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 172,
+                    "endColumn": 44,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 250,
+                        "endColumn": 42,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 40,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 211,
+                        "endColumn": 38,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 45,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 105,
+                        "endColumn": 43,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 51,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1013,
+                        "endColumn": 49,
+                        "endOffset": 1060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 54,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 806,
+                        "endColumn": 52,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endColumn": 53,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 529,
+                        "endColumn": 51,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 52,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 859,
+                        "endColumn": 50,
+                        "endOffset": 907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 518,
+                    "endColumn": 52,
+                    "endOffset": 566
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 755,
+                        "endColumn": 50,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 571,
+                    "endColumn": 54,
+                    "endOffset": 621
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 702,
+                        "endColumn": 52,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 626,
+                    "endColumn": 56,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 647,
+                        "endColumn": 54,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endColumn": 54,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 422,
+                        "endColumn": 52,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 54,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 910,
+                        "endColumn": 52,
+                        "endOffset": 960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 48,
+                    "endOffset": 837
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 963,
+                        "endColumn": 46,
+                        "endOffset": 1007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 842,
+                    "endColumn": 53,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1063,
+                        "endColumn": 51,
+                        "endOffset": 1112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 896,
+                    "endColumn": 55,
+                    "endOffset": 947
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 475,
+                        "endColumn": 53,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 952,
+                    "endColumn": 64,
+                    "endOffset": 1012
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 581,
+                        "endColumn": 62,
+                        "endOffset": 641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1017,
+                    "endColumn": 41,
+                    "endOffset": 1054
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 380,
+                        "endColumn": 39,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1059,
+                    "endColumn": 43,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 338,
+                        "endColumn": 41,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1103,
+                    "endColumn": 43,
+                    "endOffset": 1142
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 296,
+                        "endColumn": 41,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1147,
+                    "endLine": 24,
+                    "endColumn": 9,
+                    "endOffset": 1221
+                },
+                "from": {
+                    "file": "/Users/neighborcell/Dev/Lightning/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 9,
+                        "endOffset": 129
+                    }
+                }
+            }
+        ]
+    }
+]

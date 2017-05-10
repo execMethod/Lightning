@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TelephonyLogger</string>
+    <string name="config_interval">ログ取得インターバル: %d[sec]</string>
+    <string name="config_ng">CANCEL</string>
+    <string name="config_ok">OK</string>
+    <string name="config_title">【設定】</string>
+    <string name="location_able">が有効になりました</string>
+    <string name="location_accuracy">Accuracy</string>
+    <string name="location_available">測位中...</string>
+    <string name="location_bearing">Bearing</string>
+    <string name="location_gpstime">Gpstime</string>
+    <string name="location_latitude">Latitude</string>
+    <string name="location_longitude">Longitude</string>
+    <string name="location_outofservice">測位圏外</string>
+    <string name="location_provider">Provider</string>
+    <string name="location_speed">Speed</string>
+    <string name="location_unable">が無効になりました</string>
+    <string name="location_unavailable">測位一時不能</string>
+    <string name="location_unservice">Networkが無効になっています</string>
+    <string name="status_cfg">設定</string>
+    <string name="status_map">ログ読込</string>
+    <string name="status_rec">ログ取得</string>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+	</style>
+</resources>
